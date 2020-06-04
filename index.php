@@ -1,4 +1,4 @@
 <?php
-header("Location: https://opusenergy.com/buy-energy/larger-businesses/");
+header("Location: https://www.expertextermination.ca/en-ca/exterminator.php");
 die();
 ?>
