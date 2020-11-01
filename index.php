@@ -1,4 +1,4 @@
 <?php
-header("Location: https://offiactt.herokuapp.com/");
+header("Location: https://www.peacepizza.com.au");
 die();
 ?>
